@@ -1,0 +1,13 @@
+name: Shiny_App
+title: Shiny_App
+username:
+account: avonguptrishi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5203588
+bundleId: 5292399
+url: https://avonguptrishi.shinyapps.io/Shiny_App/
+when: 1637843747.2762
+lastSyncTime: 1637843747.2762
+asMultiple: FALSE
+asStatic: FALSE
